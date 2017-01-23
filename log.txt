@@ -1,0 +1,15 @@
+Episode 1
+   0: observation, reward, done, info = [ 0.00348667 -0.22378119 -0.03384283  0.30719106], 1.0, False, {}
+   1: observation, reward, done, info = [-0.00098895 -0.41840496 -0.02769901  0.58901166], 1.0, False, {}
+   2: observation, reward, done, info = [-0.00935705 -0.61312832 -0.01591877  0.87284219], 1.0, False, {}
+   3: observation, reward, done, info = [-0.02161962 -0.80803023  0.00153807  1.16047809], 1.0, False, {}
+   4: observation, reward, done, info = [-0.03778022 -0.61292835  0.02474763  0.86827781], 1.0, False, {}
+   5: observation, reward, done, info = [-0.05003879 -0.80837811  0.04211319  1.16863774], 1.0, False, {}
+   6: observation, reward, done, info = [-0.06620635 -1.00402185  0.06548594  1.47422077], 1.0, False, {}
+   7: observation, reward, done, info = [-0.08628679 -0.80975849  0.09497036  1.20268944], 1.0, False, {}
+   8: observation, reward, done, info = [-0.10248196 -1.00597136  0.11902415  1.52356178], 1.0, False, {}
+   9: observation, reward, done, info = [-0.12260138 -0.81247104  0.14949538  1.27027536], 1.0, False, {}
+  10: observation, reward, done, info = [-0.1388508  -0.61953996  0.17490089  1.02789468], 1.0, False, {}
+  11: observation, reward, done, info = [-0.1512416  -0.42712245  0.19545878  0.79483085], 1.0, False, {}
+  12: observation, reward, done, info = [-0.15978405 -0.62431276  0.2113554   1.14208385], 1.0, True, {}
+	Total reward for episode is: 13.0
